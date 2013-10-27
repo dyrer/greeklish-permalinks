@@ -4,7 +4,7 @@ Plugin Name: Greeklish permalinks
 Plugin URI: http://wpmania.gr/plugins/greeklish-permalinks
 Description: This plugins provides greeklish permalinks for greek titles.
 Author: Iacovos Constantinou
-Version: 0.4
+Version: 0.41
 Author URI: http://iacons.net/
 */
 
